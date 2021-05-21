@@ -29,8 +29,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-0.0.0.0 es.pornhub.com
-0.0.0.0 fernando-gaitan.com.ar
+
 
 # End of custom host records.
 # Start StevenBlack
@@ -39,6 +38,8 @@ ff02::3 ip6-allhosts
 # Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 es.pornhub.com
+0.0.0.0 fernando-gaitan.com.ar
 0.0.0.0 n2019cov.000webhostapp.com
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 010sec.com
